@@ -1,52 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1013" height="564" viewBox="0 0 1013 564" font-family="Consolas, 'DejaVu Sans Mono', 'Courier New', monospace" font-size="14">
+<svg xmlns="http://www.w3.org/2000/svg" width="1013" height="524" viewBox="0 0 1013 524" font-family="Consolas, 'DejaVu Sans Mono', 'Courier New', monospace" font-size="14">
 <rect width="100%" height="100%" rx="10" fill="#f6f8fa"/>
 <style>text{white-space:pre}</style>
-<text x="24" y="58" fill="#57606a" xml:space="preserve"></text>
-<text x="24" y="78" fill="#57606a" xml:space="preserve">              %%%%@@@@%%%%</text>
-<text x="24" y="98" fill="#57606a" xml:space="preserve">         %@@@@%%%%    %%%%@@@@%</text>
-<text x="24" y="118" fill="#57606a" xml:space="preserve">      %@@%%    .  .  .  .    %%@@%</text>
-<text x="24" y="138" fill="#57606a" xml:space="preserve">   %@@@%   .                 .  %@@@%</text>
-<text x="24" y="158" fill="#57606a" xml:space="preserve">  %@@%  ####                ####  %@@%</text>
-<text x="24" y="178" fill="#57606a" xml:space="preserve"> @@%  . ######            ###### .  %@@</text>
-<text x="24" y="198" fill="#57606a" xml:space="preserve">%@%  .  ########        ########     %@%</text>
-<text x="24" y="218" fill="#57606a" xml:space="preserve">@@  .   #### #####    ##### ####      @@</text>
-<text x="24" y="238" fill="#57606a" xml:space="preserve">@%      ####   ##########   ####      %@</text>
-<text x="24" y="258" fill="#57606a" xml:space="preserve">@%      ####     ######     ####   .  %@</text>
-<text x="24" y="278" fill="#57606a" xml:space="preserve">@@  .   ####                ####      @@</text>
-<text x="24" y="298" fill="#57606a" xml:space="preserve">%@%     ####                ####     %@%</text>
-<text x="24" y="318" fill="#57606a" xml:space="preserve"> @@%    ####                ####    %@@</text>
-<text x="24" y="338" fill="#57606a" xml:space="preserve">  %@@%  ####                ####  %@@%</text>
-<text x="24" y="358" fill="#57606a" xml:space="preserve">   %@@@%                        %@@@%</text>
-<text x="24" y="378" fill="#57606a" xml:space="preserve">      %@@%%   .  .  .  .     %%@@%</text>
-<text x="24" y="398" fill="#57606a" xml:space="preserve">         %@@@@%%%%    %%%%@@@@%</text>
-<text x="24" y="418" fill="#57606a" xml:space="preserve">              %%%%@@@@%%%%</text>
-<text x="24" y="438" fill="#57606a" xml:space="preserve"></text>
-<text x="162.6" y="478" fill="#c2410c" font-weight="bold">mo.life</text>
-<text x="78.6" y="498" fill="#57606a" font-weight="normal">detect · automate · respond</text>
+<text x="24" y="38" fill="#57606a" xml:space="preserve"></text>
+<text x="24" y="58" fill="#57606a" xml:space="preserve">              %%%%@@@@%%%%</text>
+<text x="24" y="78" fill="#57606a" xml:space="preserve">         %@@@@%%%%    %%%%@@@@%</text>
+<text x="24" y="98" fill="#57606a" xml:space="preserve">      %@@%%    .  .  .  .    %%@@%</text>
+<text x="24" y="118" fill="#57606a" xml:space="preserve">   %@@@%   .                 .  %@@@%</text>
+<text x="24" y="138" fill="#57606a" xml:space="preserve">  %@@%  ####                ####  %@@%</text>
+<text x="24" y="158" fill="#57606a" xml:space="preserve"> @@%  . ######            ###### .  %@@</text>
+<text x="24" y="178" fill="#57606a" xml:space="preserve">%@%  .  ########        ########     %@%</text>
+<text x="24" y="198" fill="#57606a" xml:space="preserve">@@  .   #### #####    ##### ####      @@</text>
+<text x="24" y="218" fill="#57606a" xml:space="preserve">@%      ####   ##########   ####      %@</text>
+<text x="24" y="238" fill="#57606a" xml:space="preserve">@%      ####     ######     ####   .  %@</text>
+<text x="24" y="258" fill="#57606a" xml:space="preserve">@@  .   ####                ####      @@</text>
+<text x="24" y="278" fill="#57606a" xml:space="preserve">%@%     ####                ####     %@%</text>
+<text x="24" y="298" fill="#57606a" xml:space="preserve"> @@%    ####                ####    %@@</text>
+<text x="24" y="318" fill="#57606a" xml:space="preserve">  %@@%  ####                ####  %@@%</text>
+<text x="24" y="338" fill="#57606a" xml:space="preserve">   %@@@%                        %@@@%</text>
+<text x="24" y="358" fill="#57606a" xml:space="preserve">      %@@%%   .  .  .  .     %%@@%</text>
+<text x="24" y="378" fill="#57606a" xml:space="preserve">         %@@@@%%%%    %%%%@@@@%</text>
+<text x="24" y="398" fill="#57606a" xml:space="preserve">              %%%%@@@@%%%%</text>
+<text x="24" y="418" fill="#57606a" xml:space="preserve"></text>
+<text x="162.6" y="458" fill="#c2410c" font-weight="bold">mo.life</text>
+<text x="78.6" y="478" fill="#57606a" font-weight="normal">detect · automate · respond</text>
 <text x="384.0" y="38" fill="#c2410c" font-weight="bold" xml:space="preserve">mohamed@mouzaoui <tspan fill="#8c959f" font-weight="normal">───────────────────────────────────────────────────────</tspan></text>
 <text x="384.0" y="58" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">Role:</tspan><tspan fill="#8c959f"> .................... </tspan>Cybersecurity Analyst</text>
 <text x="384.0" y="78" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">Focus:</tspan><tspan fill="#8c959f"> ................... </tspan>Detection &amp; Security Automation</text>
-<text x="384.0" y="98" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">Host:</tspan><tspan fill="#8c959f"> .................... </tspan>Numidia Institute of Technology</text>
-<text x="384.0" y="118" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">Location:</tspan><tspan fill="#8c959f"> ................ </tspan>Blida, Algeria</text>
-<text x="384.0" y="138" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">Award:</tspan><tspan fill="#8c959f"> ................... </tspan>Best Startup Work (Sentinel XDR Pro)</text>
-<text x="384.0" y="158" fill="#8c959f">.</text>
-<text x="384.0" y="178" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">Languages.Programming:</tspan><tspan fill="#8c959f"> ... </tspan>Python, JavaScript</text>
-<text x="384.0" y="198" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">Stack.Dev:</tspan><tspan fill="#8c959f"> ............... </tspan>FastAPI, React, Docker</text>
-<text x="384.0" y="218" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">Stack.Data:</tspan><tspan fill="#8c959f"> .............. </tspan>Elasticsearch, PostgreSQL, Redis, Grafana</text>
-<text x="384.0" y="238" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">Detection:</tspan><tspan fill="#8c959f"> ............... </tspan>MITRE ATT&amp;CK, Sigma, SOAR, ML</text>
-<text x="384.0" y="258" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">Languages.Real:</tspan><tspan fill="#8c959f"> .......... </tspan>Arabic, English, French, Spanish, Italian</text>
-<text x="384.0" y="278" fill="#8c959f">.</text>
-<text x="384.0" y="298" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">Hobbies.Software:</tspan><tspan fill="#8c959f"> ........ </tspan>CTFs, Game Dev (Godot, UE4)</text>
-<text x="384.0" y="318" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">Hobbies.Other:</tspan><tspan fill="#8c959f"> ........... </tspan>Cybersecurity content creation</text>
-<text x="384.0" y="338" fill="#8c959f">.</text>
-<text x="384.0" y="358" fill="#8c959f" xml:space="preserve">─ <tspan fill="#c2410c" font-weight="bold">Contact</tspan> ──────────────────────────────────────────────────────────────</text>
-<text x="384.0" y="378" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">Email.Personal:</tspan><tspan fill="#8c959f"> .......... </tspan>mehamedm.hz11222@gmail.com</text>
-<text x="384.0" y="398" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">LinkedIn:</tspan><tspan fill="#8c959f"> ................ </tspan>mohamed-mouzaoui-19ab8740a</text>
-<text x="384.0" y="418" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">GitHub:</tspan><tspan fill="#8c959f"> .................. </tspan>mohamedmouzaoui</text>
-<text x="384.0" y="438" fill="#8c959f">.</text>
-<text x="384.0" y="458" fill="#8c959f" xml:space="preserve">─ <tspan fill="#c2410c" font-weight="bold">GitHub Stats</tspan> ─────────────────────────────────────────────────────────</text>
-<text x="384.0" y="478" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">Repos:</tspan><tspan fill="#8c959f"> ................... </tspan>11</text>
-<text x="384.0" y="498" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">Stars:</tspan><tspan fill="#8c959f"> ................... </tspan>18</text>
-<text x="384.0" y="518" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">Commits:</tspan><tspan fill="#8c959f"> ................. </tspan>76</text>
-<text x="384.0" y="538" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">Followers:</tspan><tspan fill="#8c959f"> ............... </tspan>1</text>
+<text x="384.0" y="98" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">Award:</tspan><tspan fill="#8c959f"> ................... </tspan>Best Startup Work (Sentinel XDR Pro)</text>
+<text x="384.0" y="118" fill="#8c959f">.</text>
+<text x="384.0" y="138" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">Languages.Programming:</tspan><tspan fill="#8c959f"> ... </tspan>Python, JavaScript</text>
+<text x="384.0" y="158" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">Stack.Dev:</tspan><tspan fill="#8c959f"> ............... </tspan>FastAPI, React, Docker</text>
+<text x="384.0" y="178" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">Stack.Data:</tspan><tspan fill="#8c959f"> .............. </tspan>Elasticsearch, PostgreSQL, Redis, Grafana</text>
+<text x="384.0" y="198" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">Detection:</tspan><tspan fill="#8c959f"> ............... </tspan>MITRE ATT&amp;CK, Sigma, SOAR, ML</text>
+<text x="384.0" y="218" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">Languages.Real:</tspan><tspan fill="#8c959f"> .......... </tspan>Arabic, English, French, Spanish, Italian</text>
+<text x="384.0" y="238" fill="#8c959f">.</text>
+<text x="384.0" y="258" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">Hobbies.Software:</tspan><tspan fill="#8c959f"> ........ </tspan>CTFs, Game Dev (Godot, UE4)</text>
+<text x="384.0" y="278" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">Hobbies.Other:</tspan><tspan fill="#8c959f"> ........... </tspan>Cybersecurity content creation</text>
+<text x="384.0" y="298" fill="#8c959f">.</text>
+<text x="384.0" y="318" fill="#8c959f" xml:space="preserve">─ <tspan fill="#c2410c" font-weight="bold">Contact</tspan> ──────────────────────────────────────────────────────────────</text>
+<text x="384.0" y="338" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">Email.Personal:</tspan><tspan fill="#8c959f"> .......... </tspan>mehamedm.hz11222@gmail.com</text>
+<text x="384.0" y="358" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">LinkedIn:</tspan><tspan fill="#8c959f"> ................ </tspan>mohamed-mouzaoui-19ab8740a</text>
+<text x="384.0" y="378" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">GitHub:</tspan><tspan fill="#8c959f"> .................. </tspan>mohamedmouzaoui</text>
+<text x="384.0" y="398" fill="#8c959f">.</text>
+<text x="384.0" y="418" fill="#8c959f" xml:space="preserve">─ <tspan fill="#c2410c" font-weight="bold">GitHub Stats</tspan> ─────────────────────────────────────────────────────────</text>
+<text x="384.0" y="438" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">Repos:</tspan><tspan fill="#8c959f"> ................... </tspan>11</text>
+<text x="384.0" y="458" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">Stars:</tspan><tspan fill="#8c959f"> ................... </tspan>18</text>
+<text x="384.0" y="478" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">Commits:</tspan><tspan fill="#8c959f"> ................. </tspan>77</text>
+<text x="384.0" y="498" fill="#24292f" xml:space="preserve"><tspan fill="#8c959f">. </tspan><tspan fill="#c2410c">Followers:</tspan><tspan fill="#8c959f"> ............... </tspan>1</text>
 </svg>
