@@ -19,8 +19,6 @@ USERNAME = "mohamedmouzaoui"
 CARD = [
     ("Role", "Cybersecurity Analyst"),
     ("Focus", "Detection & Security Automation"),
-    ("Host", "Numidia Institute of Technology"),
-    ("Location", "Blida, Algeria"),
     ("Award", "Best Startup Work (Sentinel XDR Pro)"),
     None,
     ("Languages.Programming", "Python, JavaScript"),
