@@ -1,4 +1,4 @@
-#! /usr/bin/env python3 
+#! /usr/bin/env python3  
 """Generates dark_mode.svg and light_mode.svg (neofetch-style profile card).
 
 Edit the CARD section below to change the text. Run `python update.py`
